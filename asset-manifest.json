@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/E-WASTE/static/css/main.5563e2b0.css",
+    "main.js": "/E-WASTE/static/js/main.ab3afb65.js",
+    "static/js/787.94ae488f.chunk.js": "/E-WASTE/static/js/787.94ae488f.chunk.js",
+    "static/media/BR.png": "/E-WASTE/static/media/BR.69bf301e48f26844ccea.png",
+    "static/media/E-cycle.png": "/E-WASTE/static/media/E-cycle.f09b575acf8ead21043a.png",
+    "static/media/Home-page.png": "/E-WASTE/static/media/Home-page.2b75efbdba0986ff2128.png",
+    "static/media/ERP.png": "/E-WASTE/static/media/ERP.08afdec4c538d3b88242.png",
+    "static/media/DD.png": "/E-WASTE/static/media/DD.071ede85e8ece3845dfc.png",
+    "index.html": "/E-WASTE/index.html",
+    "main.5563e2b0.css.map": "/E-WASTE/static/css/main.5563e2b0.css.map",
+    "main.ab3afb65.js.map": "/E-WASTE/static/js/main.ab3afb65.js.map",
+    "787.94ae488f.chunk.js.map": "/E-WASTE/static/js/787.94ae488f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5563e2b0.css",
+    "static/js/main.ab3afb65.js"
+  ]
+}
